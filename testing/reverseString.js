@@ -5,3 +5,5 @@ function reverseString(string) {
 }
 
 console.log(reverseString('cabbage'));
+
+module.exports = reverseString
